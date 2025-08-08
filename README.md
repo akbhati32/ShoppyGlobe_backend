@@ -62,7 +62,7 @@ NODE_ENV=development
 This project uses environment variables to configure sensitive information.
 
 1. Create a `.env` file in the root directory of the project.
-2. Copy the contents from `.env` and fill in the values.
+2. Copy the contents from `.env` and fill in the values according to you.
 
 ### 4. Set up MongoDB Locally
 
