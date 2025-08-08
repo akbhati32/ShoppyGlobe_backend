@@ -200,8 +200,7 @@ Below are some example JSON payloads for making requests to various endpoints:
   "name": "Product Name",
   "price": 99.99,
   "description": "Product details...",
-  "stock": 10,
-  "images": ["https://example.com/image1.jpg", "https://example.com/image2.jpg"]
+  "stock": 10
 }
 ```
 ## 📄 License
